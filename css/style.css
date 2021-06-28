@@ -33,15 +33,11 @@ h2{
 }
 
 .select{
-	color:#1a489c;
-	font: bold;
+	color:#133472;
 }
 
-.attention {
-	text-align: center;
-	font-size: 17px;
-	color:#1a489c;
-}
+.spanlink { color: #4EC7C2; cursor:pointer; text-decoration:underline;}
+.spanlink:hover { color:white; }
 
 /*===================header=====================*/
 #header{
@@ -269,7 +265,6 @@ h2{
 	height: 14px;
 	width: 14px;
 }
-
 
 
 /*=======================#contacts========================*/
